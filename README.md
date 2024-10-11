@@ -9,7 +9,7 @@ Testing liveness of backend - https://asmfsdserver.vercel.app/helloWorld
 Step 1 : Clone the repository
 
 ```http
-    git clone https://github.com/MagnusCarlsen26/Forum-For-IITJ.git
+    git clone https://github.com/MagnusCarlsen26/ASMT_FSD_5.git
 ```
 Step 2: Create Your MongoDB Account and Database/Cluster
 Create your own MongoDB account by visiting the MongoDB website and signing up for a new account.
