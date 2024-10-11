@@ -1,8 +1,8 @@
 # Live link
 
-### frontend - https://asmfsdclient.vercel.app/
-### backend - https://asmfsdserver.vercel.app/
-### Testing liveness of backend - https://asmfsdserver.vercel.app/helloWorld
+#### frontend - https://asmfsdclient.vercel.app/
+#### backend - https://asmfsdserver.vercel.app/
+#### Testing liveness of backend - https://asmfsdserver.vercel.app/helloWorld
 
 # How to install
 
@@ -235,7 +235,7 @@ Fetch the feedback history of a specific user.
 #### Notes:
 This endpoint retrieves all feedback submitted by the specified `username`.
 
-### Architecture and Design Decisions
+# Architecture and Design Decisions
 
 #### 1. **Modular Design Using Express and Mongoose**
 The application follows a modular architecture, breaking the API into multiple router modules. 
