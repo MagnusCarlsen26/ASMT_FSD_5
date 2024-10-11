@@ -14,7 +14,7 @@ app.use(express.json())
 app.use("/save",saveFeedback)
 app.use("/analysis",analysis)
 
-app.post("/helloWorld",(req,res) => {
+app.get("/helloWorld",(req,res) => {
     res.send("helloWorld")
 })
 
